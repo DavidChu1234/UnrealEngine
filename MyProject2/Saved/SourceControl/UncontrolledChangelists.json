@@ -166,7 +166,14 @@
 				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/Blueprints/Turret/Assets/TurretChamber.uasset",
 				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/Blueprints/Turret/RecoilCurve.uasset",
 				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/Blueprints/Turret/BP_TurretProjectile.uasset",
-				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/Blueprints/Turret/Assets/TurretProjectile.uasset"
+				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/Blueprints/Turret/Assets/TurretProjectile.uasset",
+				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/LevelBuilding.umap",
+				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/DirtPath.uasset",
+				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/MAT_Landscape.uasset",
+				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/DirtPathPic.uasset",
+				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/LevelBuilding_sharedassets/Grass_LayerInfo.uasset",
+				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/LevelBuilding_sharedassets/Path_LayerInfo.uasset",
+				"D:/UnrealEngine/UnrealEngine/MyProject2/Content/LevelBuilding_sharedassets/Rock_LayerInfo.uasset"
 			]
 		}
 	]

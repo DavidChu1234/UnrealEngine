@@ -1,0 +1,7 @@
+2024/10/04-17:55:25.710 2970 Reusing MANIFEST D:/UnrealEngine/UnrealEngine/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/04-17:55:25.729 2970 Recovering log #3
+2024/10/04-17:55:25.730 2970 Reusing old log D:/UnrealEngine/UnrealEngine/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2024/10/04-17:58:30.189 a3ac Level-0 table #5: started
+2024/10/04-17:58:30.263 a3ac Level-0 table #5: 1167 bytes OK
+2024/10/04-17:58:30.312 a3ac Delete type=0 #3
+2024/10/04-17:58:30.328 a3ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
